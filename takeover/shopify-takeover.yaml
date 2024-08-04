@@ -2,7 +2,7 @@ id: shopify-takeover
 
 info:
   name: shopify takeover detection
-  author: pdteam,philippedelteil,Imjust0
+  author: pdteam,philippedelteil,Imjust0,naoredri
   severity: high
   description: shopify takeover was detected.
   reference:
